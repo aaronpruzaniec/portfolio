@@ -1,0 +1,51 @@
+@import 'variables';
+/* Global */
+body{
+  background-color:$white;
+}
+/* Item-level */
+.outer{
+  padding:1em;
+}
+.item{
+  border-radius: 3px;
+  min-height: 10em;
+  box-shadow:0px 1px 3px $black;
+  background-size:cover;
+  background-position:50% 0;
+}
+.outer{
+  &:nth-child(1) .item{
+    background-image:url('../thumbnails/calle_del_sabor.jpg');
+  }
+  &:nth-child(2) .item{
+    background-image:url('../thumbnails/nexus_properties.jpg');
+  }
+  &:nth-child(3) .item{
+    background-image:url('../thumbnails/bulb_finder.jpg');
+  }
+  &:nth-child(4) .item{
+    background-image:url('../thumbnails/philips_bikelight.jpg');
+  }
+  &:nth-child(5) .item{
+    background-image:url('../thumbnails/vdo_redi_sensor.jpg');
+  }
+  &:nth-child(6) .item{
+    background-image:url('../thumbnails/vdo_roadlog.jpg');
+  }
+  &:nth-child(7) .item{
+    background-image:url('../thumbnails/philips_gopure.jpg');
+  }
+  &:nth-child(8) .item{
+    background-image:url('../thumbnails/jtsports_com.jpg');
+  }
+  // &:nth-child() .item{
+  //   background-image:url('../');
+  // }
+  // &:nth-child() .item{
+  //   background-image:url('../');
+  // }
+  // &:nth-child() .item{
+  //   background-image:url('../');
+  // }
+}
