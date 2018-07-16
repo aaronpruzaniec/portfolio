@@ -4,7 +4,7 @@ var P = {
       name:'Become an Affiliate',
       thumbnail:'become_an_affiliate',
       description:'',
-      link:'liquid/become-an-affiliate',
+      link:'gwynniebee/pages_v6/become-an-affiliate',
       year:'2018',
       tags:{
         javascript:true,
@@ -15,15 +15,127 @@ var P = {
       }
     },
     {
-      name:'',
-      thumbnail:'',
+      name:'How It Works',
+      thumbnail:'how_it_works',
       description:'',
-      link:'',
+      link:'gwynniebee/pages_v6/how_it_works/',
       year:'',
       tags:{
-        javascript:,
-        landingPage:,
-        responsive:,
+        javascript:true,
+        landingPage:true,
+        responsive:true,
+        ui:false,
+        ux:false,
+      }
+    },
+    {
+      name:'Sun Kissed Style Lookbook',
+      thumbnail:'sun_kissed_style_lookbook',
+      description:'',
+      link:'gwynniebee/pages/sun_kissed_style_lookbook',
+      year:'2017',
+      tags:{
+        javascript:true,
+        landingPage:true,
+        responsive:true,
+        ui:false,
+        ux:false,
+      }
+    },
+    {
+      name:'Summer Lookbook 2017',
+      thumbnail:'summer_lookbook_2017',
+      description:'',
+      link:'gwynniebee/pages/summer_lookbook_2017',
+      year:'2017',
+      tags:{
+        javascript:true,
+        landingPage:true,
+        responsive:true,
+        ui:false,
+        ux:false,
+      }
+    },
+    {
+      name:'Tracy Reese Lookbook',
+      thumbnail:'tracy_reese_lookbook',
+      description:'',
+      link:'gwynniebee/pages/tracy_reese_lookbook',
+      year:'2017',
+      tags:{
+        javascript:true,
+        landingPage:true,
+        responsive:true,
+        ui:false,
+        ux:false,
+      }
+    },
+    {
+      name:'Sean Patrick Wayland',
+      thumbnail:'sean_patrick_wayland',
+      description:'',
+      link:'https://www.spwayland.net/',
+      year:'2017',
+      tags:{
+        javascript:true,
+        landingPage:false,
+        responsive:true,
+        ui:true,
+        ux:true,
+      }
+    },
+    {
+      name:'Spring Lookbook 2017',
+      thumbnail:'spring_lookbook_2017',
+      description:'',
+      link:'gwynniebee/pages/spring_lookbook_2017',
+      year:'2016',
+      tags:{
+        javascript:true,
+        landingPage:true,
+        responsive:true,
+        ui:true,
+        ux:true,
+      }
+    },
+    {
+      name:'Slot Machine',
+      thumbnail:'slot_machine',
+      description:'',
+      link:'gwynniebee/pages/slot-machine',
+      year:'2016',
+      tags:{
+        javascript:true,
+        landingPage:true,
+        responsive:true,
+        ui:false,
+        ux:false,
+      }
+    },
+    {
+      name:'Party Perfect Lookbook',
+      thumbnail:'party_perfect_lookbook',
+      description:'',
+      link:'gwynniebee/pages/party_perfect_lookbook',
+      year:'2016',
+      tags:{
+        javascript:true,
+        landingPage:true,
+        responsive:true,
+        ui:false,
+        ux:false,
+      }
+    },
+    {
+      name:'Unlimited Fashion',
+      thumbnail:'unlimited_fashion_e',
+      description:'',
+      link:'gwynniebee/pages/unlimited_fashion_e',
+      year:'2015',
+      tags:{
+        javascript:true,
+        landingPage:true,
+        responsive:true,
         ui:,
         ux:,
       }
@@ -43,10 +155,18 @@ var P = {
       }
     },
     {
-      name:'two'
-    },
-    {
-      name:'three'
+      name:'',
+      thumbnail:'',
+      description:'',
+      link:'',
+      year:'',
+      tags:{
+        javascript:,
+        landingPage:,
+        responsive:,
+        ui:,
+        ux:,
+      }
     },
   ],
   map:{
