@@ -264,7 +264,10 @@ var A = {
 window.onload = A.f.getStart;
 </script>
 <style>
-  #modalTest{
+  body{
+    background-color:#f4f3f3;
+  } 
+  #modalTest{ 
     position:fixed;
     top:20%;
     background-color:#fff;

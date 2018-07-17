@@ -844,7 +844,6 @@
 <style type="text/css">
   @media screen and (max-width: 1440px) {
     #page {
-      margin-top: -32px !important;
     }
   }
 
